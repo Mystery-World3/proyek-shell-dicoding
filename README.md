@@ -31,7 +31,7 @@ Untuk menjalankan skrip ini, Anda bisa mengikuti langkah-langkah berikut di term
 
 ```bash
 # 1. Clone repositori ini ke komputer lokal Anda
-git clone [https://github.com/Mystery-World3/proyek-shell-dicoding.git](https://github.com/Mystery-World3/proyek-shell-dicoding.git)
+git clone https://github.com/Mystery-World3/proyek-shell-dicoding.git
 
 # 2. Masuk ke direktori proyek
 cd proyek-shell-dicoding
