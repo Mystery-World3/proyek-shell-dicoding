@@ -1,0 +1,33 @@
+    1  a
+    2  sudo su
+    3  exit
+    4  ls
+    5  exit
+    6  ls
+    7  cd evillimiter
+    8  ls
+    9  evillimiter
+   10  sudo
+   11  sudo su
+   12  exit
+   13  ls
+   14  cd evillimiter
+   15  ls
+   16  evillimiter
+   17  sudo su
+   18  ls
+   19  cd
+   20  pwd
+   21  mkdir
+   22  rm
+   23  cp
+   24  mv
+   25  useradd
+   26  passwd
+   27  chown
+   28  ls
+   29  # Membuat direktori (folder) baru bernama ProyekDicoding\nmkdir ProyekDicoding\n\n# Masuk ke dalam direktori tersebut\ncd ProyekDicoding
+   30  nano script.sh
+   31  ls
+   32  chmod +x script.sh
+   33  ./script.sh
